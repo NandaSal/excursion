@@ -15,3 +15,7 @@ body {
   text-decoration: underline;
   font-size: 16px;
 }
+
+main .video {
+  padding: 26px;
+}
