@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.title h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.title a {
+  color: aquamarine;
+  text-decoration: underline;
+  font-size: 16px;
+}
